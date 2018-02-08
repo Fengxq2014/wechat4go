@@ -1,0 +1,15 @@
+[[wechat]]
+appid = "Thunder Road"
+appsecret = "4m49s"
+
+[[wechat]]
+appid = "Stairway to Heaven"
+appsecret = "8m03s"
+
+[redis]
+host = "10.164.0.155:6379"
+password = "wsqtest"
+database = 1
+maxIdle = 5
+maxActive = 10
+idleTimeout = 10
