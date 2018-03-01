@@ -5,6 +5,6 @@ type GetConfigRespose struct {
 	Timestamp int64  `json:"timestamp"`
 	Nonce     string `json:"nonce"`
 	Signature string `json:"signature"`
-	Subscribe int32  `json:"subscribe"`
+	Subscribe string `json:"subscribe"`
 	Unionid   string `json:"unionid"`
 }

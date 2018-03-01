@@ -1,14 +1,14 @@
 [[wechat]]
-appid = "Thunder Road"
-appsecret = "4m49s"
+appid = "wx6c8c65d31656ab75"
+appsecret = "573ce8af99dc57d97a15389cca1f39f9"
 
 [[wechat]]
-appid = "Stairway to Heaven"
-appsecret = "8m03s"
+appid = "wxdd2000e1492a986c"
+appsecret = "c171d883ac354dc425f32e2eb873d3ac"
 
 [redis]
-host = "10.164.0.155:6379"
-password = "wsqtest"
+host = "127.0.0.1:6379"
+password = ""
 database = 1
 maxIdle = 5
 maxActive = 10
